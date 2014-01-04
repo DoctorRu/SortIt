@@ -1,6 +1,6 @@
 import argparse
 
-__author__ = 'doctorru - github@'
+__author__ = 'doctorru - https://github.com/DoctorRu/SortIt'
 
 def main():
     parser = argparse.ArgumentParser(description='Sort and remove duplicated words from a file and write it to a new '
